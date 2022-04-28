@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1650915432 source:e:\unlam\programacion & tcp\programacion\files\archivos_binarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/tipos.h"
+	"lib/archivos.h"
+	"lib/fun.h"
+
+1650915270 source:e:\unlam\programacion & tcp\programacion\files\archivos_binarios\lib\fun.c
+	"fun.h"
+	"tipos.h"
+	<string.h>
+
+1650909408 e:\unlam\programacion & tcp\programacion\files\archivos_binarios\lib\tipos.h
+
+1650909536 e:\unlam\programacion & tcp\programacion\files\archivos_binarios\lib\archivos.h
+
+1650914828 e:\unlam\programacion & tcp\programacion\files\archivos_binarios\lib\fun.h
+	<stdio.h>
+	"tipos.h"
+
